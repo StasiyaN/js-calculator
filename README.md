@@ -1,1 +1,1 @@
-# js-calculator
+JavaScript practice + git practice
