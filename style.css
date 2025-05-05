@@ -46,3 +46,15 @@ body {
     margin: 10px 6px;
     font-size: 30px;
 }
+
+.btn-zero {
+    padding: 30px 190px 26px 20px;
+}
+
+.btn-mint {
+    background-color: #2d6057;
+}
+
+.btn-grey {
+    background-color: dimgrey;
+}
